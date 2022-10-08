@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>NES_-_Bomberman_-_General_Sprites-removebg-preview.png</file>
+        <file>fondo.png</file>
+    </qresource>
+</RCC>
